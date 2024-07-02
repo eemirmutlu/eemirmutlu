@@ -1,7 +1,7 @@
 [! [MasterHead] <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">I am frontend developer from Turkey.</h3>
 
-- 🔭 I’m currently working on [ThinkCut](thinkcut.com)
+- 🔭 I’m currently working on [ThinkCut](https://thinkcut.com/)
 
 - 🌱 I’m currently learning **Next.js, React Native**
 
