@@ -1,4 +1,4 @@
-[! [MasterHead] <h1 align="center">Hi 👋, I'm Emir</h1>
+<h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">I am frontend developer from Turkey.</h3>
 
 - 🔭 I’m currently working on [ThinkCut](https://thinkcut.com/)
